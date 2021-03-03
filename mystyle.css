@@ -1,0 +1,76 @@
+body{
+	top:30px;}
+
+		
+.saiba {width: 65%;
+        margin: auto;
+		opacity: 0.95}		
+		
+.inf{background-color:FF8A2A;
+    opacity: 0.9;
+	width:100%;
+	text-align: center;
+	color: white}
+		
+.destinos{margin: 3% 7% 0% 7%;}
+		
+form {width:40%;
+	margin: 0 auto;
+	text-align: center;
+	color: orange;
+	font-family:sans-serif ;
+	font-size: 20px;	}
+
+
+h1 { text-align: center;
+	color: FF8A2A;
+	font-family: georgian;
+	font-size: 40px;}
+
+h5 {color: 525150;
+	font-family: georgian;}
+	
+h3{color:525150;
+	font-family: arial;}
+	
+h2 { text-align: center;
+	color: 525150;
+	font-family: georgian;
+	font-size: 25px;}
+	
+	
+table, td {color:525150;
+    background-color: white;
+    width: 290px;
+    padding: 10px;}
+	
+th{color: white;}
+	
+table{margin: auto; 
+	position: relative;
+	opacity: 0.97;}
+	
+a:link, a:visited {
+background-color: ffa500;
+color: white;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline;
+}
+a:hover, a:active {
+background-color: ffbc40;
+}
+
+.menu {
+background-color:ffa500;
+list-style-type: none;
+text-align: center;
+padding: 0;
+margin: 0;
+}
+.menu li {
+display: inline-block;
+font-size: 15px;
+padding: 15px;
+}
